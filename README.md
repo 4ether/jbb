@@ -1,5 +1,7 @@
 # Cara Login Admin & List Akun
 
+## *Gunakan akun Investor untuk melakukan pengajuan penawaran dan akun Pengusaha untuk menambahkan bisnis
+
 [Akun Admin]
 - email  : admin@gmail.com
 - pass   : 123456789
