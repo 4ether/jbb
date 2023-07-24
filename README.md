@@ -1,2 +1,14 @@
-# jbb
-Website periklanan jual beli bisnis online dengan SIM untuk admin yang dapat mengelola akun pengguna dan memonitoring statistik bentuk bisnis dan penawaran bisnis yang terbuat per bulannya
+# Cara Login Admin & List Akun
+
+[Akun Admin]
+email  : admin@gmail.com
+pass   : 123456789
+
+[Akun Investor]
+email  : pjbb@mail.com
+pass   : 123
+
+[Akun Pengusaha]
+email  : ijbb@mail.com
+pass   : 123
+
