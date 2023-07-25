@@ -25,7 +25,7 @@ $idPengusaha = $_SESSION['id'];
     $var = "INSERT INTO bisnis (nama, deskripsi, harga, bentuk, 
     pendapatan, didirikan, status, jenis, fitur, benda, 
     mapLat, mapLng, kota, alamat, rataPerB, rataPerT, 
-    namaPemilik, notelp, idPengusaha) VALUES ('$namaBisnis','$deskripsi','$harga','$bentuk',
+    idPengusaha) VALUES ('$namaBisnis','$deskripsi','$harga','$bentuk',
     '$pendapatan','$tahun','$status','$jenis','$fitur','$benda','$mapLat','$mapLng','$kota','$alamat','$rataPerB',
     '$rataPerT','$idPengusaha')";
 
