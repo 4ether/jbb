@@ -149,7 +149,7 @@ session_start();
                       while ($fetchData =  mysqli_fetch_array($sql)) {
                         $no++;
                         $idPn = $fetchData['id'];
-                        $namaBisnisPn = $fetchData['nama'];
+                        $namaBisnisPn = $fetchData['namaBisnis'];
                         $namaPemilik = $fetchData['namaPemilik'];
                         $namaPenawar = $fetchData['namaUser'];
                         $hargaAsliPn = number_format($fetchData['hargaAsli'], 0, ',', '.');
