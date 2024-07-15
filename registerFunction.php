@@ -15,7 +15,7 @@ $pass = md5($_POST['pass']);
 $notelp = $_POST['notelp'];
 
 	$varEm = "SELECT * FROM pengguna WHERE email='$email'";
-	$var = "INSERT INTO pengguna (id_jenis, jenis, nama, email, password, notelp) VALUES ('$id','$jenis','$nama','$email','$pass', '$notelp')";
+	$var = "INSERT INTO pengguna (id_jenis, nama, email, password, notelp) VALUES ('$id','$nama','$email','$pass', '$notelp')";
 	
 	if(isset($_POST['submit'])){
 		$checkEm = mysqli_query($conn, $varEm);
